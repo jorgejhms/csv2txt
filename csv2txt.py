@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 ## csv2txt
 ## Originally developed by Jorge Meneses (jorgejhms[at]gmail[dot]com).
 ## Released under a GNU General Public Licence v. 3.0.
